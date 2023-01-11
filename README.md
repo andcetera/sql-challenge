@@ -6,11 +6,11 @@ Performing data modeling, data engineering, and data analysis on old employee fi
 - - -
 ## Project Structure
 
-### All project files can be found in the [EmployeeSQL]() folder.
-**Data Modeling:** [EmployeeDB_ERD.png]()  
-**Data Engineering:** [schema.sql]()  
-**Data Analysis:** [Requested_Queries.sql]()  
-**Bonus:** [bonus.ipynb]()  
+### All project files can be found in the [EmployeeSQL](EmployeesSQL/) folder.
+**Data Modeling:** [EmployeeDB_ERD.png](EmployeeSQL/EmployeeDB_ERD.png)  
+**Data Engineering:** [schema.sql](EmployeeSQL/schema.sql)  
+**Data Analysis:** [Requested_Queries.sql](EmployeeSQL/Requested_Queries.sql)  
+**Bonus:** [bonus.ipynb](EmployeeSQL/bonus.ipynb)  
 
 ### You can find the original CSV files in the [Resources](Resources/) folder.
 
